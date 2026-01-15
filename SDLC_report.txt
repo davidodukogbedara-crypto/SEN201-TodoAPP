@@ -1,0 +1,46 @@
+SEN 201 – Simple To-Do List Application
+
+Name: ODUKOGBE DAVID ADEDEJI  
+Matric Number: 24/15634  
+Department: Computer Science  
+
+PROJECT TITLE:
+Simple To-Do List Application
+
+This project is a Simple To-Do List Application developed using Python programming language.
+The application allows users to add tasks, view tasks, and delete tasks using a menu-driven system.
+The project follows the Software Development Life Cycle (SDLC).
+
+The system shall allow the user to add a new task.
+The system shall allow the user to view all tasks.
+The system shall allow the user to delete a task.
+The system shall allow the user to exit the application.
+
+The system shall be easy to use.
+The system shall run on the command line.
+The system shall be written using Python.
+
+The system is designed as a menu-driven application.
+Tasks are stored using a list data structure.
+The program is divided into functions to improve readability and maintenance
+
+add_task() – adds a new task
+view_tasks() – displays all tasks
+delete_task() – deletes a task
+main_menu() – controls the program flow
+
+The application was implemented using Python.
+A list was used to store tasks entered by the user.
+Each operation was implemented as a function.
+The main_menu() function displays options and controls the program execution.
+
+The system was tested by adding tasks, viewing tasks, and deleting tasks.
+All features worked as expected without errors.
+
+The application is deployed by running the Python file using the command:
+python todo_app.py
+
+The system can be improved in the future by adding file storage and a graphical user interface.
+
+The Simple To-Do List Application was successfully developed using Python following the SDLC approach.
+The project meets all the stated requirements.
